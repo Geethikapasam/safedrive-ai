@@ -1,7 +1,7 @@
 # SafeDrive AI 
 
 ## Overview
-SafeDrive AI predicts driving risk based on speed and time.
+SafeDrive AI predicts driving risk based on speed and time,wheather.
 
 ## Problem
 Unsafe speed leads to accidents.
